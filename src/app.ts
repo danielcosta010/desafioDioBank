@@ -1,4 +1,4 @@
-import { IndividualAccount } from "./class/individualAccount";
+import { IndividualAccount } from "./class/IndividualAccount";
 import { CorporateAccount } from "./class/CorporateAccount";
 import { StudentAccount } from "./class/StudentAccount";
 
